@@ -35,9 +35,9 @@ def exact_gene(fr, chromosome, start, end,fw_name):
 if __name__ == '__main__':
 
     #change into work directory which contains genome fasta file
-    os.chdir(r'K:\01-Genome_blastdb\Acipenser_sinensis_ont')
+    os.chdir(r'K:\directory1\directory2')
     #read genome fasta file
-    fr = 'A.sinensis.ONT.Hic.bk.fasta'
+    fr = 'genome.fasta'
     #chromosome number
     chromosome = 1
     #start position 
