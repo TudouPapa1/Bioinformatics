@@ -3,7 +3,7 @@
 '''
 Name: exact-genes.py
 Objective: To extract a sequence at a given location
-Author: Wang Binzhong
+Author: TudouPapa
 Date: 2022-03-24
 Comment: The script needs big memory depending on genome fasta file.
 Please confirm it.
